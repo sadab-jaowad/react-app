@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
     return (
         <header>
-            <h1>UDEMY</h1>
+            <h1>React User App</h1>
         </header>
     );
 };
